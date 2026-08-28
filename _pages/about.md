@@ -13,7 +13,7 @@ redirect_from:
 
 Personal Projects
 ======
-I have analyzed Stack Overflow Survey Analysis which includes ~54,000 developer responses from 2024 which uncovers trends in technology, compensation, and workflow. https://samfightss-mba-applied-stats.hf.space
+I have analyzed Stack Overflow Survey Analysis which includes ~54,000 developer responses from 2024 which uncovers trends in technology, compensation, and workflow. The project link is here [https://samfightss-mba-applied-stats.hf.space](https://samfightss-mba-applied-stats.hf.space)
 
 
 
